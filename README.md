@@ -4,6 +4,7 @@ never really used HTML to make anything like this (usually my HTML projects are 
 
 finished link below! VV
 https://dasadishree.github.io/splatter-paint/
+<img width="1470" alt="Screenshot 2024-09-12 at 6 26 06 PM" src="https://github.com/user-attachments/assets/eac24b28-6f0d-46b1-8b77-d2f37fd9a28e">
 
 # stuff i added myself
 - sounds
